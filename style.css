@@ -1,0 +1,270 @@
+.nav-item{
+    text-decoration-color: orangered;
+    font-weight: bolder;
+    font-family: cursive;
+    color: #fff;
+    text-decoration-color: orangered;
+}
+li:hover{
+    font-size: 17px;
+    transition: 0.5s;
+    
+}
+.bg-image{
+    background-image: url(layer1_edited.jpg); height:100vh; background-size: 100% 100%;
+}
+#top{
+    padding-top: 100px;
+}
+#breakfast{
+    
+    text-shadow: 1px 2px 2px black;
+}
+#first-heading h1{
+    
+    font-weight: bolder;
+    font-size: 70px;
+    margin-top: -80px;
+    
+}
+#first-heading p{
+    font-size: 20px;
+    color: #fff;
+
+}
+
+#about-heading p{
+    font-size: 20px;
+}
+.col-6{
+    font-size: 80px; font-family: cursive; font-weight: bolder; color: orange;
+}
+.col-6 img{
+    padding-bottom: 100px;
+}
+#Quality{
+    background-image: url(shape.png); background-size: 100% 100%; height: 200vh; padding-top: 200px; color: #fff;
+  
+}
+.col-5 h1{
+    font-size: 60px;
+}
+.col-5 p{
+    font-size: 20px;
+ }
+
+ #about{
+     padding: 50px;
+     padding-bottom: 300px;
+     text-shadow: 1px 2px 2px  black;
+    
+ }
+ #about img{
+     width: 80%;
+ }
+ 
+#food{
+     margin-top: -330px;width: 50%; margin-left: 390px;
+}
+#jugd{
+    margin-top: 280px; margin-left: -10px; padding-bottom: 100px;
+}
+#bread{
+    margin-top: -170px; margin-left: 153px; width: 730px;
+}
+#Gallery{
+    margin-top: -250px; padding-top: 100px
+}
+#enjoy-food{
+    background-image: url(layer.png); height: 100vh; background-size: 100% 100%;
+}
+#Enjoy{
+    width: 45% ; height:55vh; 
+}
+#Enjoy h1{
+    font-weight: bolder; font-size: 50px;
+}
+#Enjoy p{
+    font-size: 20px;
+}
+#last-box{
+    margin-top: -130px;
+}
+#about-heading h1{
+    font-size: 70px; font-weight: bolder; color: orange;
+    margin-top: -300px;
+}
+#our-food h1{
+    font-size: 60px;
+}
+#best-meal{
+    font-size: 60px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width:1024px ) {
+    .col-6{
+        margin-top: -150px;
+    }
+    .col-6 h1{
+        font-size: 50px;
+        font-weight: bolder;
+        text-shadow: 1px 2px 2px black;
+    }
+    .col-6 img{
+        width: 100%;
+    }
+    .col-6 p{
+        text-shadow: 1px 1px 1px black;
+    }
+    #about h1{
+        margin-top: -150px;
+    }
+    #food {
+        width: 55%;
+        margin-left: 270px;
+    }
+    #bread{
+        width: 100%;
+        margin-left: 97px;
+    }
+    #jugd{
+        width: 110%;
+    }
+    #Gallery{
+        margin-top: -80px;
+    }
+    .col-4 img{
+        width: 95%;
+    }
+    #last-box{
+        margin-top: -80px;
+    }
+    #Enjoy{
+        width: 55%; height: 60vh;
+    }
+}
+
+
+@media screen and (width:768px) {
+    
+    #first-heading h1{
+        font-size: 40px;
+    }
+    #about h1{
+        font-size: 60px;
+    }
+    #food{
+        margin-left: 200px;
+    }
+    #bread{
+        width: 110%;
+        margin-left: 33px;
+    }
+    #jugd{
+        margin-top: 230px;
+    }
+    #our-food h1{
+        font-size: 50px;
+    }
+    #Gallery{
+        margin-top: 30px;
+    }
+    #Enjoy h1{
+        font-size: 35px;
+    }
+    #best-meal h1{
+        font-size: 40px;
+    }
+    #last-box img{
+        width: 110%;
+        margin-top: 60px;
+        margin-left: -20px;
+    }
+
+    
+}
+@media screen and (max-width:425px) {
+    #break-fast{
+        margin-top: 300px;
+    }
+  
+
+    #first-heading h1{
+        font-size: 20px;
+    }
+    #first-heading p{
+        font-size: 12px;
+    }
+    #about h1{
+        font-size: 20px;
+        margin-top: 10px;
+    }
+    #about p{
+        font-size: 12px;
+    }
+    #about img{
+        width: 150%;
+        padding: 10px;
+        margin-left: -50px;
+    }
+    #food{
+        margin-left: 90px;
+        width: 24vh;
+        
+    }
+    #bread{
+        width: 60%;
+        position: absolute;
+        margin-top: -190px;
+        margin-left: 10px;
+    }
+    #Quality{
+        height: 100vh;
+    }
+    #our-food h1{
+        margin-top: -150px;
+        font-size: 20px;
+    }
+    #our-food p{
+        font-size: 12px;
+    }
+    #jugd{
+        margin-top: 100px;
+    }
+    #Gallery{
+        margin-top: -35px;
+    }
+    #top{
+        padding-top: 200px;
+    }
+    #Enjoy{
+        width: 80%;
+        height: 50vh;
+    }
+    #Enjoy h1{
+        font-size: 20px;
+    }
+    #Enjoy p{
+        font-size: 14px;
+    }
+    
+    
+        
+   
+   
+    
+    
+    
+}
